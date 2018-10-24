@@ -1,0 +1,1490 @@
+{
+  "settings": {
+    "name": "Site-10-24_0906",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#a0a0a0"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.5",
+    "siteFonts": [],
+    "uniqCompNum": 36,
+    "versionPublish": "4.8.5",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cappng-169x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">COACH COLLINS - Building Better Athletes</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "45",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/newbooks2.jpg-1400x1316.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Are you ready to improve your Strength, Speed, Power &amp; Flexibility for greater Sports Performance?&nbsp;",
+          "text": "The 'New' <b>SPORTS STRENGTH book</b> by legendary Strength &amp; Conditioning Coach <b><i>Ron Palmer </i></b>and Speed Coach &amp; Injury Prevention specialist <b><i>Paul Collins</i></b> (who together combine 100-years playing and coaching experience) provides everything you need to build an Athletic Body to perform at your best. 100+ exercises, 4-week training blocks, 16-week periodised training program, innovative Recovery &amp; Regeneration support, plus more. <b>Grab a copy today!</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PURCHASE 'Ebook'</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PURCHASE 'Hard Copy'</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-3",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "32px",
+              "text-align": "left"
+            },
+            ".mbr-section-text": {
+              "color": "#000000",
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ronnie+palmer+james+maloney+new+south+wales+tqri8k2f1ekl-594x396.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/t9wYDDlbpuI",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Ron Palmer Coaching Update",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ARTICLES</a> ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-4",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/K87pw7pgtM8",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Fastfeet® Speed for Sport™ Training DVD",
+          "text": "Join S&amp;C Coaches <b><i>Ron Palmer</i></b> and <b><i>Paul Collins</i></b> as they guide you through a Dynamic Warm-up and drills to improve running technique, speed, agility and quickness using speed ladders, mini-hurdles, agility poles and more (50-minutes of pure coaching) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt; Watch 'Coach Collins' race Jarryd Hayne over 40",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PURCHASE DVD</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-5",
+          "_styles": {
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "50",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/p2-1-1400x1049.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Maintain your Speed and Mobility in order to stay at the top of your game through 'POSTUREFIT®'",
+          "text": "<b><i>Are your muscles always feeling tight?   Have you lost a step or two in speed?   Do you feel as though your under-performing and don't know why?  ..</i></b>. Muscle imbalance and tension leads to weaknesses and blockages affecting movement mechanics and performance that need to be corrected in order to maintain strength, speed and power. Olympic 100m Champion 'Usain Bolt' undertook daily body re-alignment sessions in order to keep running fast and stay injury-free and now you can to with a POSTUREFIT® - Athlete Screening, Muscle Release &amp; Stretching session with Paul Collins.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-a",
+          "_styles": {
+            "H3": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "32px"
+            },
+            "P": {
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/qld-069-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Speaking Engagements",
+          "text": "Coach Palmer &amp; Coach Collins are available for various speaking engagements with sporting teams and clubs at local and major conferences. This extends to include national and international employee and business conferences and conventions speaking on corporate health and wellbeing topics.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#form1-7\" data-toolbar=\"-mbrBtnMove\">CONTACT US&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-t",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Fastfeet",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/c-265-928x696.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c-265-928x696-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Fastfeet Speed Coaching",
+                "active": false
+              },
+              {
+                "tags": "Coaching",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/sc-dec-11-002-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sc-dec-11-002-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Team Coaching &amp; Seminars",
+                "active": false
+              },
+              {
+                "tags": "Posturefit",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/rugby-004-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rugby-004-2000x1500-800x600.jpg",
+                "alt": "Athlete Alignment",
+                "title": "Posturefit",
+                "caption": "PostureFit Body Management",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/paul-at-canberra-raiders2-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paul-at-canberra-raiders2-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "Team Fitness Consulting",
+                "caption": "Team Fitness Consulting",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2006-0102filex070088-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2006-0102filex070088-2000x1500-800x600.jpg",
+                "alt": "Seminars",
+                "title": "Core strength seminars",
+                "caption": "Seminars and Workshops",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/c1-2000x1494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c1-2000x1494-800x598.jpg",
+                "alt": "Speed",
+                "title": "Speed Coaching",
+                "caption": "1-on-1 Athlete Coaching",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-2186-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2186-2000x1500-800x600.jpg",
+                "alt": "Strength",
+                "title": "Strength and Power",
+                "caption": "Strength Coaching",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ronnie-coach-collins-1-of-1-2000x1585.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ronnie-coach-collins-1-of-1-2000x1585-800x600.jpg",
+                "alt": "Coaches",
+                "title": "Ron and Paul",
+                "caption": "Coach Palmer &amp; Coach Collins",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-f"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#41a85f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Coach Collins - Ebooks&nbsp;",
+          "text": "<span style=\"font-style: normal;\">Take your fitness to a new level with a series of affordable coaching and training ebook solutions that are so advanced, that they're actually simple - only $9.90 each!</span>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-c"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/awea-218x218.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cs45-155x225.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ff-218x218.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/fb45-155x225.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Athletic Abs",
+          "subtitle1": "Develop the Core",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Core-Strength",
+          "subtitle2": "Strengthen your whole body",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Functional Fitness",
+          "subtitle3": "Build your fittest body ever",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Fitness Ball Training",
+          "subtitle4": "Get Fitnon the Ball",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-b"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ss24-159x228.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dd45-155x225.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pt-218x218.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/st-218x218.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "FASTFEET",
+          "subtitle1": "<span style=\"font-style: normal;\"><b>SPEED FOR SPORT</b></span>",
+          "caption1": "<i>Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.</i>",
+          "title2": "DYNAMIC DUMBBELL TRAINING",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "POWER TRAINING",
+          "subtitle3": "<span style=\"font-style: normal;\"><b>BODY-WEIGHT PLYOMETRICS</b></span>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "SPORTS STRETCHING",
+          "subtitle4": "<span style=\"font-style: normal;\"><b>Improve Range of Motion &amp; Flexibility</b></span>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-d",
+          "_styles": {
+            "SPAN": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "H5": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "What ATHLETES, COACHES &amp; CELEBRITIES have to say ...",
+          "subtitle": "",
+          "testimonial": [
+            {
+              "authorName": "RYAN SERHANT<br>Millionaire Listing New York <br>- TV Presenter -",
+              "authorBio": "Core-Strength Book",
+              "text": "<p>“Coach Collins from 'Down Under' Australia is the King of Core-Strength. I use his exercises daily as part of my training routine to keep in shape - healthy body, healthy mind - enabling me stay focused all year round and sell plenty of real estate!\"&nbsp;</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/millionarie-listing-new-york-160x109.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "IVAN CLEARY<br>NRL Head Coach",
+              "authorBio": "Wests Tigers",
+              "text": "<p>“I have known both Paul Collins and Ron Palmer for over 25 years...Quite simply, you are in good hands. Paul and Ron are the best in the business when it comes to optimising athletic performance. User-friendly systems that not only show you how to train, but also how to recover and relax, which is an essential ingredient for success.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/ivancleary-v2-1-118x160.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "ANDREW JOHNS<br>Rugby League Immortal",
+              "authorBio": "Sporting Legend",
+              "text": "<p>“With Ron’s guidance and expertise, you will see improvement in performance which will\n help you to be the best footballer or athlete at professional level or playing for fun. With Ron’s help and guidance, I achieved everything in rugby league and stay there for a long time..”&nbsp;</p><p>\n</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/andrew-1-160x83.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-6",
+          "_styles": {
+            ".card-block P": {
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT US - Complete form",
+          "subtitle": "For all enquiries please complete the form below. Due to volume of requests&nbsp;please allow time for a response",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "form": {
+            "action": "thebodycoach@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-7",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-x"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#553982",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coachcollinslogopng-128x44.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Sydney, Australia",
+          "text2": "<strong>Contacts</strong><br>\nEmail: thebodycoach@hotmail.com<br>",
+          "text3": "<strong>Links</strong><br><br><a class=\"text-primary\" href=\"page2.html\" target=\"_blank\">Terms of Use</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">TBA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-8"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "Page 1",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cappng-169x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">COACH COLLINS - Building Better Athletes</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-g"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "POSTUREFIT® - MUSCLE LENGTH, MOBILITY AND ONGOING ATHLETE BODY MANAGEMENT",
+          "text": "<p>Muscle and Joint Range of Motion Assessment, Release techniques and Core-Strengthening</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-l"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Posturefit® by Paul Collins incorporates a 3-Step process in helping tune-up an athlete’s body from which optimal athletic performance can occur whilst also aiding in the prevention of injury. In Step 1, athletes undergo a series of muscular and joint range of motion and body posture assessments. These assessments help identify the onset of muscular tension, imbalance or possible strain along with associated compensatory affects or weaknesses affecting an athlete’s movement mechanics, especially any limitations in speed and agility, strength or power.</p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-o"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Posturefit® is also used to help identify and correct improper movement mechanics in gym-based exercises such as squats, where poor movements mechanics may cause imbalance, overloading and stiffness to particular muscles and joints that filter onto impair proper running mechanics, a loss of speed or power and increase risk of strain or injury.  These assessments provide essential feedback from which the methodology of Step 2 is applied – in relation to what specific stretches, trigger point releases or massage is applied for the body to regain joint mobility and postural re-alignment. (Photos of these assessments at the start and end of each session aid in providing a visual guide and essential feedback to the athlete, coach or the high-performance unit or medical staff today or to refer back to in the future).\n</blockquote><blockquote>\n<span style=\"font-size: 1.09rem;\">Once joint mobility is enhanced and muscle balance occurs Step 3 is applied incorporating a series of deep core-stability and postural strengthening exercises to help re-establish better muscle activation and firing patterns, allowing an athlete to train better on the field or in the gym and help optimize their performance whilst helping reduce risk of injury. In an elite arena this involves regular weekly treatment, knowing Usian Bolt undertook similar body treatments (2-3 times a day) to ensure his body was mechanically aligned and so muscles could fire at 100% in training and competition.&nbsp;</span></blockquote><blockquote>\n</blockquote><blockquote>Posturefit® supplements any sports therapy, physio, chiro or osteo treatment. It can also aid in the process of recovery of injury, by not working on the injured area itself – being looked after by a doctor and physiotherapist – but by helping aid in keeping the body re-aligned and core strong during this process whilst the injured area heals. A testament to this process is Paul being personally called in by Jarryd Hayne after suffering back-to-back injuries half-way through the 2018 NRL season to help re-align his body and allow him to return to career best form in the back half of the season through regular and ongoing weekly Posturefit® sessions, that supplemented his medical treatment. Paul previously worked with Jarryd during the 2014 NRL season where he was Awarded Dally M player of the Year, then travelled to the USA to help prepare him for his NFL debut.</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-r"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/raiders2-023-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/raiders2-023-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/raiders2-021-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/raiders2-021-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/raiders2-027-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/raiders2-027-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/raiders2-026-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/raiders2-026-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-q"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contact us for POSTUREFIT® Session",
+          "subtitle": "Posturefit is available for individual athletes and sporting teams (all sports)",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "form": {
+            "action": "thebodycoach@hotmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-p",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "Page 2",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cappng-169x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">COACH COLLINS - Building Better Athletes</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-u"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#553982",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coachcollinslogopng-128x44.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Sydney, Australia",
+          "text2": "<strong>Contacts</strong><br>\nEmail: thebodycoach@hotmail.com<br>",
+          "text3": "<strong>Links</strong><br><br><a class=\"text-primary\" href=\"page2.html\" target=\"_blank\">Terms of Use</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">TBA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-v"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Terms of Use and Privacy Policy",
+          "meta": "December 2018",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Terms of Use\n</b></p><p>INTRODUCTION\n</p><p>•\tThese terms of use apply to all use of the Australian version of the Coach Collins website.\n</p><p>•\tThe Coach Collins privacy policy sets out how we use data relating to you and it forms part of these terms of use. Our privacy policy can be found on our website.\n</p><p>•\tThis constitutes a legal agreement between us and you. Please read it carefully.\n</p><p>•\tThese terms of use describe the terms on which you are permitted to use the Coach Collins website.\n</p><p>•\tTerms of use may change from time to time.\n</p><p>1. INFORMATION ABOUT HOW TO CONTACT US\n</p><p>1.1 Who we are. We are The Body Coach Online Nutrition Limited, a company incorporated and registered in England and Wales with company number 08940062 whose registered office is at the address below.\n</p><p>1.2 How to contact us. You can contact us in writing via email to thebodycoach@hotmail.com\n</p><p>2. BY USING OUR SITE YOU ACCEPT THESE TERMS\n</p><p>2.1 By using our site, you confirm that you accept these terms of use and that you agree to comply with them.\n</p><p>2.2 If you do not agree to these terms, you must not use our site.\n</p><p>2.3 We recommend that you print a copy of these terms for future reference.\n</p><p>3. THERE ARE OTHER TERMS THAT MAY APPLY TO YOU\n</p><p>3.1 These terms of use refer to the following additional terms, which also apply to your use of our site:\n</p><p>3.2 Our privacy policy, that sets out the terms in which we process any personal data we collect from you, or that you provide to us. By using our site, you consent to such processing and you warrant that all data provided by you is accurate.\n</p><p>3.3 If you purchase goods from our e-shop, our terms and conditions of supply will apply to the sales. Note: The shop is operated by a separate company, please visit the page for website terms, privacy policy and terms of business. \n</p><p>4. CHANGES TO THESE TERMS\n</p><p>4.1 We amend these terms from time to time. Every time you wish to use our site, please check these terms to ensure you understand the terms that apply at that time.\n</p><p>5. CHANGES TO OUR SITE\n</p><p>5.1 We may update and change our site from time to time to reflect changes to our products, our users' needs and our business priorities.\n</p><p>6. SUSPENSION OR WITHDRAWAL OF OUR SITE\n</p><p>6.1 Our site is made available free of charge.\n</p><p>6.2 We do not guarantee that our site, or any content on it, will always be available or uninterrupted. We may suspend, withdraw or restrict the availability of all or any part of our site for business and operational reasons. We will try to give you reasonable notice of any suspension or withdrawal.\n</p><p>6.3 You are responsible for ensuring that all persons who access our site through your internet connection are aware of these terms of use and other applicable terms and conditions, and that they comply with them.\n</p><p>6.4 Our site is directed to people residing in Australia. We do not represent that content available on or through our site is appropriate or available for use in other locations.\n</p><p>7. MATERIAL ON OUR SITE\n</p><p>7.1 We are the owner or the licensee of all intellectual property rights in our site, and in the material published on it. Those works are protected by copyright laws and treaties around the world. All such rights are reserved.\n</p><p>7.2 You must not use any part of the content on our site for commercial purposes without obtaining a licence to do so from us.\n</p><p>7.3 If you print off, copy or download any part of our site in breach of these terms of use, your right to use our site will cease immediately and you must, at our request, return or destroy any copies of the materials you have made.\n</p><p>8. INFORMATION ON THIS SITE\n</p><p>8.1 The content on our site is provided for general information only. It is not intended to amount to advice on which you should rely. You must obtain professional or specialist advice before taking, or refraining from, any action on the basis of the content on our site.\n</p><p>8.2 Although we make reasonable efforts to update the information on our site, we make no representations, warranties or guarantees, whether expressed or implied, that the content on our site is accurate, complete or up to date.\n</p><p>9. WEBSITES WE LINK TO\n</p><p>9.1 Where our website contains links to other websites and resources provided by third parties, these links are provided for your information only. Such links should not be interpreted as approval by us of those linked websites or information you may obtain from them.\n</p><p>9.2 We have no control over the contents of those sites or resources.\n</p><p>10. LOSS OR DAMAGE SUFFERED BY YOU\n</p><p>10.1 Notwithstanding anything to the contrary in these terms, we do not exclude or limit in any way our liability to you where it would be unlawful to do so. This includes liability for death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors and for fraud or fraudulent misrepresentation.\n</p><p>10.2 Please note that we only provide our site for domestic and private use. You agree not to use our site for any commercial or business purposes, and we have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity. \n</p><p>11. VIRUSES\n</p><p>11.1 We do not guarantee that our site will be secure or free from bugs or viruses.\n</p><p>112 You are responsible for configuring your information technology, computer programmes and platform to access our site. You should use your own virus protection software.\n</p><p>11.3 You must not misuse our site by knowingly introducing viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful. You must not attempt to gain unauthorised access to our site, the server on which our site is stored or any server, computer or database connected to our site. You must not attack our site via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use our site will cease immediately.\n</p><p>12. LINKING TO OUR SITE\n</p><p>12.1 You may link to our home page, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it.\n</p><p>12.2 You must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part where none exists.\n</p><p>12.3 You must not establish a link to our site in any website that is not owned by you.\n</p><p>12.4 Our site must not be framed on any other site, nor may you create a link to any part of our site other than the home page.\n</p><p>12.5 We reserve the right to withdraw linking permission without notice.\n</p><p>13. WHICH COUNTRY'S LAWS APPLY TO ANY DISPUTES\n</p><p>13.1 If you are a consumer, please note that these terms of use, their subject matter and their formation, are governed by Australian law. \n</p><p>14. OUR TRADE MARKS ARE REGISTERED\n</p><p>14.1 FASTFEET, POSTUREFIT, SPINAL UNLOADING BLOCK, are trademarks of Paul Collins. You are not permitted to use them without our prior written approval.\n</p><p><br></p><p><b>Privacy Policy</b> \r</p><p>COACH COLLINS WEBSITE PRIVACY POLICY\r</p><p>At COACH COLLINS.COM, we respect your privacy and are committed to protecting the personal data that we obtain.\r</p><p>This privacy policy explains how we will process the data relating to you that you provide to us (or that we may collect) when you visit our website www.COACHCOLLINS.com (the 'Website').\r</p><p>The Website is operated by Paul Collins (we, us, our, Coach Collins). Where we decide the purpose or means for the processing of the personal data that you provide via our website, we are the \"data controller\". As data controller, we will comply with all applicable data protection laws.\r</p><p>This policy should be read together with our:\r</p><p>•\tWebsite Terms of Use which details information pertaining to website visitor and user responsibilities and obligations in regards to the use of our website.\r</p><p>•\tTerms of Business which details information pertaining to the sale of services, goods or merchandise via our website.\r</p><p>Important Note, Coach Collins e-shop is fully run and managed by a third-party ebook service providers who collect and process your personal data independently from  Coach Collins accordingly they have their own Privacy Policy. Please view their privacy policy for full details on how they process your data.\r</p><p>This policy explains the following:\r</p><p>•\twhat information we may collect about you\r</p><p>•\thow we will use information we collect about you\r</p><p>•\twhether we will disclose your details to anyone else\r</p><p>•\tyour choices and rights regarding the personal information you provide to us\r</p><p>Our website may contain hyperlinks to third party websites including the website of our partner networks, advertisers and affiliates. These websites operate fully independently from us, and we cannot accept any responsibility or liability for the privacy practices of such third parties nor the availability of these external sites or resources. The appearance of such links on our website is not an endorsement. Should you use any of these websites, such use is at your own risk and we would advise that you review their respective privacy policies.\r</p><p>1. WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?\r</p><p>In order to provide our online sales services and other related business activities, including delivery of our books, workout training plans and online support we will need to collect and process information about you.\r</p><p>When you use our website, whether for browsing, to make an online purchase from our e-shop, or to sign up to our newsletter, you may be asked to fill in forms to create your own account. We will ask you to provide us with the following information:\r</p><p>•\tyour name (first name and surname)\r</p><p>•\tyour email address\r</p><p>•\tyour phone number\r</p><p>To complete your online purchase you will also be asked to provide our third party payment service provider with:\r</p><p>•\tyour billing address\r</p><p>•\tyour shipping address (if different)\r</p><p>•\tyour payment details (e.g. credit card details)\r</p><p>We may also obtain additional personal data, which could include special categories of personal data (i.e. personal data of a more sensitive nature), when you voluntarily supply information through our website, such as via our Facebook community group.\r</p><p>By interacting with us on social media platforms by way of \"liking\", \"following\", commenting, \"retweeting\" or \"sharing\", you understand that you are consenting for our interaction with you. \r</p><p>1.1 WEBSITE ANALYTICS AND TARGETED MARKETING\r</p><p>1.1.1 WEBSITE ANALYTICS\r</p><p>We use website analytics to evaluate and improve our Website and to offer the best, most accessible service possible to all of our customers. For example, we utilise third party data analytics service providers (such as Google Analytics) to improve our visibility and to monitor website browser behaviour and navigation across the Website.\r</p><p>These third party data analytics service providers collect this information on our behalf in accordance with our instructions and in line with their own privacy policies. We have contracts in place to protect the confidentiality of your information with all of our third party data analytics service providers.\r</p><p>When you visit our Website, our service providers may collect the following data, which will almost always be anonymised and aggregated before reporting back to us:\r</p><p>•\tnumber of visitors to our Website\r</p><p>•\tpages visited while at the Website and time spent per page\r</p><p>•\tpage interaction information, such as scrolling, clicks and browsing methods\r</p><p>•\twebsites where visitors have come from and where they go afterwards\r</p><p>•\tpage response times and any download errors\r</p><p>•\tother technical information relating to end user device, such as IP address or browser plug-in\r</p><p>To find out more about how this data is collected, please read below about the use of cookies and website analytics.\r</p><p>1.1.2 TARGETED MARKETING\r</p><p>We use the information that we collect about you to serve you targeted advertisement in order to provide you with more relevant advertising content. The targeted marketing is accomplished via our own channels (i.e. our websites, display advertising, and apps) and third party channels, including across multiple devices or browsers, using the following platforms: \r</p><p>•\tFacebook Inc.\r</p><p>•\tGoogle Inc.\r</p><p>•\tInstagram\r</p><p>2. HOW DO WE USE YOUR PERSONAL DATA AND ON WHAT BASIS?\r</p><p>When you visit our Website, whether to browse our content, to contact us about our services or to make a purchase, we (or our third party service providers acting on our behalf) may use the personal information that you provide for the following purposes:\r</p><p>2.1 PROVIDING OUR PRODUCTS AND SERVICES\r</p><p>•\tentering into an agreement with you to provide our services or products and in the provision of those services and products.\r</p><p>•\tlogging and processing your order in our information systems\r</p><p>•\tproviding physical delivery by couriers of products ordered online\r</p><p>•\tproviding a platform via which you may join our Facebook community group\r</p><p>We collect and use this information from you to enable us to perform our sales contract with you and to enable you to access online services in line with our Website Terms of Use and Terms and Conditions of Supply.\r</p><p>2.2 CUSTOMER SERVICES &amp; ENQUIRIES\r</p><p>•\treplying to your enquiries or responding to concerns or complaints\r</p><p>•\tproviding you with information about the services we offer, including our Coach Collins e-newsletter, important announcements about your account, updates about our services, or offers for our products and plans (where you have opted to receive these)\r</p><p>If you contact us to make an enquiry or to raise a concern about our website or any aspect of our online services, we aim to respond to you as promptly as possible and we do so on the basis that we have a legitimate interest in replying to you.\r</p><p>If you have opted-in to receiving e-newsletters or other marketing materials sent via email, you may opt-out at any time via the unsubscribe feature that appears in our emails or by emailing thebodycoach@hotmail.com\r</p><p>You may also be asked to opt- in to receive updates, information or promotional material including vouchers or discount offers and other similar services from our network of recommended suppliers from us or directly from these suppliers.\r</p><p>2.3 TAX &amp; OTHER LEGAL OBLIGATIONS\r</p><p>•\treporting GST and other company tax reporting purposes (as required by law)\r</p><p>•\tcomplying with regulators, law enforcement agencies or in relation to any claims that may arise\r</p><p>We process personal information for the legitimate interests and under the legal obligation of ensuring that use of the Website and e-shop (i) is lawful and non-fraudulent, (ii) does not disrupt the operation of our services, (iii) does not harass our staff or other individuals, and (iv) to enforce our legal rights and comply with our legal obligations. \r</p><p>In accordance with our legal obligations, we may disclose your information to the extent required by law which may include for financial accounting and taxation purposes with our auditors, regulators or other government bodies. We may also disclose your information to third parties in order to enforce or apply our contractual terms, to investigate potential breaches, to protect the rights and freedoms, property or safety of our business or those of our customers and other individuals.\r</p><p>Where we reasonably believe that you are or may be in breach of any of the applicable laws, we may use your personal information to inform relevant third parties such as your email/internet provider or law enforcement agencies about the content. \r</p><p>If we are involved in a merger, acquisition, or sale of all or a portion of our business or assets, the information we hold may be included as part of that sale, in which case you will be notified via email and/or a prominent notice on the Site of any changes in ownership or use of your information, and any choices you may have regarding that information.\r</p><p>2.4 COOKIES &amp; WEBSITE ANALYTICS\r</p><p>Our Website uses cookies and other mechanisms to collect log and analytical information, to help analyse how visitors use the site and to compile statistical reports on Website activity. To find out more, please view our Cookies Policy or visit: All about Cookies.\r</p><p>Our website also uses Google analytics and you can find out more here:\r</p><p>How Google uses data when you use our partners' sites or apps.\r</p><p>To learn how to opt-out of Google analytics, please visit your Google Ads settings or: https://tools.google.com/dlpage/gaoptout/.\r</p><p>•\twe process this information to understand how visitors use our Website and to compile statistical reports regarding that activity (for example, your IP address is used to approximate the country from which you access our Website, and we aggregate this information together so we know that, for example, most of the visitors to our Website come from Australia).\r</p><p>•\tthis processing is crucial to the running of our online business and we therefore undertake such monitoring in the pursuit of our legitimate interests in improving our website and providing a better service and source of information to visitors.\r</p><p>This information is not used to develop a personal profile of you.\r</p><p>2.5 FINANCIAL TRANSACTIONS\r</p><p>All financial transactions via our e-shop are handled directly by our third party payment service provider. We will not share any personal information with this third party provider, nor will we receive any of the financial information that you provide to them. \r</p><p>3. DO WE SHARE YOUR PERSONAL INFORMATION WITH ANYONE ELSE?\r</p><p>We will only ever share your information with third parties in the ways that are described in this privacy policy. If you would like to find out more about how those third parties listed in this privacy policy use your information, this should be set out in their respective privacy policies accessible on their websites.\r</p><p>3.1 PERSONNEL, SUPPLIERS AND SUBCONTRACTORS\r</p><p>We keep your information confidential, but may disclose it to our personnel (including personnel in our parent and other group companies), suppliers or subcontractors (including our cloud-based data processing, data analytics and payment service providers) insofar as it is reasonably necessary for the purposes set out in this privacy policy, provided that they do not make independent use of the information and have agreed to adhere to the rules set out in this privacy policy. In some instances, this data sharing may involve the transfer of information outside Australia. \r</p><p>We will not pass your information on to third parties for marketing purposes unless you have provided your consent, in which event the advertisements that appear when you visit our Website will be targeted to provide you with more relevant advertising content and you may receive communications from third parties offering similar or related services to us.\r</p><p>4. YOUR CHOICES AND RIGHTS IN RELATION TO PERSONAL DATA WHICH WE PROCESS RELATING TO YOU\r</p><p>You have the following rights over the way we process personal data relating to you. We aim to comply without undue delay, and within one month at the latest:\r</p><p>•\tto ask for a copy of data we are processing about you and have inaccuracies corrected;\r</p><p>•\tto ask us to restrict, stop processing, or to delete your personal data;\r</p><p>•\tto request a machine readable copy of your personal data, which you can use with another service provider. Where it is technically feasible, you can ask us to send this information directly to another provider if you prefer; and\r</p><p>To make a request in relation to any of the aforementioned rights, please email us at thebodycoach@hotmail.com\r</p><p>If you are unhappy with the way that we are processing your personal data, please let us know. The best way to bring this to our attention is by emailing us at thebodycoach@hotmail.com\r</p><p>5. CHILDREN\r</p><p>We do not knowingly use the Website to solicit data from or market to children under the age of 16.\r</p><p>If a parent or guardian becomes aware that his or her child has provided us with information or may be receiving communications from us without consent of a parent or guardian, we ask that this be brought to our immediate attention. We will make it our priority to address this situation and delete information relating to a child as soon as practicable. In such an event, please contact us at thebodycoach@hotmail.com\r</p><p>6. SECURITY\r</p><p>We will take commercially reasonable, appropriate technical and organisational measures to ensure a level of security appropriate to the risk that could be encountered via the use of our Website and services, taking into account the likelihood and severity those risks might pose to the rights and freedoms of our customers and other individuals who might be impacted.\r</p><p>In particular, we will take precautions to protect against the accidental or unlawful destruction, loss, or alteration, and unauthorised disclosure of or access to the personal data transmitted, stored or otherwise processed by us.\r</p><p>Please be aware that, while we make the security of our Website and your personal information a high priority and we devote considerable time and resources to implementing and maintaining robust information technology security, no security system can prevent all security breaches. By choosing to share your personal information with us, you accept the aforesaid and provide your information at your own risk.\r</p><p>7. RETENTION\r</p><p>In accordance with data protection laws and good commercial practice, we do not retain data in a form that permits identification of the person(s) to whom it relates for any longer than is necessary. Once the purpose for which information has been collected has been fulfilled, we will either permanently delete your personal information or remove all identifiers within it so that it is no longer personal data. We may use such anonymised data for research and/or business analysis purposes.\r</p><p>Where you have provided us with personal information in order to purchase a plan and set up an account with us, we will retain those details for as long as your account remains active.\r</p><p>Where we obtain your personal data in relation to the use or purchase of our services or products, including invoicing information, we are obligated by law to keep this for a minimum of six years.\r</p><p>8. CHANGES TO OUR PRIVACY POLICY\r</p><p>Please note that we may update this privacy policy from time to time. Any changes that we make to this policy in the future will be posted on this webpage and, where appropriate, notified to you by email. Please check back frequently to see any updates and changes to this privacy policy.\r</p><p>If you have any questions or comments about this privacy policy, please let us know by emailing thebodycoach@hotmail.com. Please note that we may update this policy from time to time.\r</p><p>9. CONTACT\r</p><p>Questions, comments and requests in relation to this privacy policy are welcome and should be addressed to thebodycoach@hotmail.com.\r</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-z"
+        }
+      ]
+    }
+  }
+}
