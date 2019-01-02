@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-10-24_0906",
+    "name": "Site-2_Jan_2019",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -28,8 +28,10 @@
     "versionFirst": "4.8.5",
     "siteFonts": [],
     "uniqCompNum": 36,
-    "versionPublish": "4.8.5",
-    "screenshot": "screenshot.png"
+    "versionPublish": "4.8.10",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -57,7 +59,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://store15308039.ecwid.com/\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.saxton.com.au/paul-collins/\" target=\"_blank\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -172,7 +174,7 @@
           },
           "title": "Are you ready to improve your Strength, Speed, Power &amp; Flexibility for greater Sports Performance?&nbsp;",
           "text": "The 'New' <b>SPORTS STRENGTH book</b> by legendary Strength &amp; Conditioning Coach <b><i>Ron Palmer </i></b>and Speed Coach &amp; Injury Prevention specialist <b><i>Paul Collins</i></b> (who together combine 100-years playing and coaching experience) provides everything you need to build an Athletic Body to perform at your best. 100+ exercises, 4-week training blocks, 16-week periodised training program, innovative Recovery &amp; Regeneration support, plus more. <b>Grab a copy today!</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PURCHASE 'Ebook'</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PURCHASE 'Hard Copy'</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://store15308039.ecwid.com/\" data-toolbar=\"-mbrBtnMove\">PURCHASE 'Ebook'</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.booktopia.com.au/sports-strength-paul-collins/prod9780648308102.html\" data-toolbar=\"-mbrBtnMove\">PURCHASE 'Hard Copy'</a>",
           "_tags": [
             "Theme"
           ],
@@ -246,7 +248,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Follow us on Facebook</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.facebook.com/coachcollinsaustralia/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Follow us on Facebook</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-4",
           "_styles": {
@@ -297,7 +299,7 @@
           },
           "title": "Fastfeet® Speed for Sport™ Training DVD",
           "text": "Join S&amp;C Coaches <b><i>Ron Palmer</i></b> and <b><i>Paul Collins</i></b> as they guide you through a Dynamic Warm-up and drills to improve running technique, speed, agility and quickness using speed ladders, mini-hurdles, agility poles and more (50-minutes of pure coaching) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt; Watch 'Coach Collins' race Jarryd Hayne over 40&lt;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PURCHASE DVD</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://store15308039.ecwid.com/\" data-toolbar=\"-mbrBtnMove\">PURCHASE DVD</a>",
           "_tags": [
             "Theme"
           ],
@@ -418,7 +420,7 @@
           },
           "title": "Speaking Engagements",
           "text": "Coach Palmer &amp; Coach Collins are available for various speaking engagements with sporting teams and clubs at local and major conferences. This extends to include national and international employee and business conferences and conventions speaking on corporate health and wellbeing topics.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#form1-7\" data-toolbar=\"-mbrBtnMove\">CONTACT US&nbsp;</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.saxton.com.au/paul-collins/\" data-toolbar=\"-mbrBtnMove\">CONTACT US&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -693,10 +695,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -806,10 +808,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -871,7 +873,7 @@
             },
             {
               "authorName": "IVAN CLEARY<br>NRL Head Coach",
-              "authorBio": "Wests Tigers",
+              "authorBio": "Penrith Panthers",
               "text": "<p>“I have known both Paul Collins and Ron Palmer for over 25 years...Quite simply, you are in good hands. Paul and Ron are the best in the business when it comes to optimising athletic performance. User-friendly systems that not only show you how to train, but also how to recover and relax, which is an essential ingredient for success.”</p>",
               "media": {
                 "image": {
@@ -995,7 +997,7 @@
             "Theme"
           ],
           "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-x"
         },
@@ -1060,7 +1062,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://store15308039.ecwid.com/\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.saxton.com.au/paul-collins/\" target=\"_blank\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1343,7 +1345,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://store15308039.ecwid.com/\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.saxton.com.au/paul-collins/\" target=\"_blank\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
