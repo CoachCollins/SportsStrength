@@ -1019,9 +1019,10 @@
               "src": "@PROJECT_PATH@/assets/images/coachcollinslogopng-128x44.png",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "https://store15308039.ecwid.com/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1434,9 +1435,10 @@
               "src": "@PROJECT_PATH@/assets/images/coachcollinslogopng-128x44.png",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "https://store15308039.ecwid.com/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
