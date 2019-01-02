@@ -59,7 +59,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://store15308039.ecwid.com/\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.saxton.com.au/paul-collins/\" target=\"_blank\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-8\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://store15308039.ecwid.com/\" target=\"_blank\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.saxton.com.au/paul-collins/\" target=\"_blank\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-8\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -126,7 +126,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">COACH COLLINS - Building Better Athletes</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">COACH COLLINS - Building Better Athletes</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-0"
         },
@@ -172,7 +172,7 @@
               "size": 250
             }
           },
-          "title": "Are you ready to improve your Strength, Speed, Power &amp; Flexibility for greater Sports Performance?&nbsp;",
+          "title": "Are you ready to improve your Strength, Speed, Power &amp; Flexibility for Greater Athletic-Sports Performance?&nbsp;",
           "text": "The 'New' <b>SPORTS STRENGTH book</b> by legendary Strength &amp; Conditioning Coach <b><i>Ron Palmer </i></b>and Speed Coach &amp; Injury Prevention specialist <b><i>Paul Collins</i></b> (who together combine 100-years playing and coaching experience) provides everything you need to build an Athletic Body to perform at your best. 100+ exercises, 4-week training blocks, 16-week periodised training program, innovative Recovery &amp; Regeneration support, plus more. <b>Grab a copy today!</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://store15308039.ecwid.com/\" data-toolbar=\"-mbrBtnMove\">PURCHASE 'Ebook'</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.booktopia.com.au/sports-strength-paul-collins/prod9780648308102.html\" data-toolbar=\"-mbrBtnMove\">PURCHASE 'Hard Copy'</a>",
           "_tags": [
@@ -299,7 +299,7 @@
           },
           "title": "Fastfeet® Speed for Sport™ Training DVD",
           "text": "Join S&amp;C Coaches <b><i>Ron Palmer</i></b> and <b><i>Paul Collins</i></b> as they guide you through a Dynamic Warm-up and drills to improve running technique, speed, agility and quickness using speed ladders, mini-hurdles, agility poles and more (50-minutes of pure coaching) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt; Watch 'Coach Collins' race Jarryd Hayne over 40&lt;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://store15308039.ecwid.com/\" data-toolbar=\"-mbrBtnMove\">PURCHASE DVD</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://store15308039.ecwid.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PURCHASE DVD</a>",
           "_tags": [
             "Theme"
           ],
@@ -420,7 +420,7 @@
           },
           "title": "Speaking Engagements",
           "text": "Coach Palmer &amp; Coach Collins are available for various speaking engagements with sporting teams and clubs at local and major conferences. This extends to include national and international employee and business conferences and conventions speaking on corporate health and wellbeing topics.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.saxton.com.au/paul-collins/\" data-toolbar=\"-mbrBtnMove\">CONTACT US&nbsp;</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.saxton.com.au/paul-collins/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT US&nbsp;</a>",
           "_tags": [
             "Theme"
           ],
@@ -695,10 +695,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Purchase</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Purchase</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Purchase</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Purchase</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -794,7 +794,7 @@
           "subtitle1": "<span style=\"font-style: normal;\"><b>SPEED FOR SPORT</b></span>",
           "caption1": "<i>Every coach talks about it, Every athlete wants it, now you can experience it with the revolutionary 6-stage fastfeet Training Model and sample speed sessions including dynamic warm-ups and training drills for improving running techniques, speed and agility with speed ladders, mini-hurdles and agilility poles. More than 100 speed training drills &nbsp;</i>",
           "title2": "DYNAMIC DUMBBELL TRAINING",
-          "subtitle2": "",
+          "subtitle2": "with Coach Collins",
           "caption2": "Dynamic Dumbbell Training is the ultimate training guide for any person looking to increase their muscular size, strength, balance, coordination and explosive power for improving athletic performance. It provides drills for reference purposes and training routines to build strength and power",
           "title3": "POWER TRAINING",
           "subtitle3": "<span style=\"font-style: normal;\"><b>BODY-WEIGHT PLYOMETRICS</b></span>",
@@ -808,10 +808,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">PURCHASE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PURCHASE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PURCHASE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PURCHASE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://store15308039.ecwid.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PURCHASE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -857,7 +857,7 @@
             {
               "authorName": "RYAN SERHANT<br>Millionaire Listing New York <br>- TV Presenter -",
               "authorBio": "Core-Strength Book",
-              "text": "<p>“Coach Collins from 'Down Under' Australia is the King of Core-Strength. I use his exercises daily as part of my training routine to keep in shape - healthy body, healthy mind - enabling me stay focused all year round and sell plenty of real estate!\"&nbsp;</p>",
+              "text": "<p>“Coach Collins from the land 'Down Under' (Australia) is the King of Core-Strength. I use his exercises daily as part of my training routine to keep in shape - healthy body, healthy mind - enabling me stay focused all year round, selling plenty of real estate as one of the leading agents in New York and the USA!\"&nbsp;</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/millionarie-listing-new-york-160x109.jpg",
@@ -1062,7 +1062,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://store15308039.ecwid.com/\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.saxton.com.au/paul-collins/\" target=\"_blank\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-8\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://store15308039.ecwid.com/\" target=\"_blank\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.saxton.com.au/paul-collins/\" target=\"_blank\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-8\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1129,7 +1129,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">COACH COLLINS - Building Better Athletes</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">COACH COLLINS - Building Better Athletes</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-g"
         },
@@ -1345,7 +1345,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://store15308039.ecwid.com/\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.saxton.com.au/paul-collins/\" target=\"_blank\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-8\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://store15308039.ecwid.com/\" target=\"_blank\">EBOOKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">FASTFEET®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">POSTUREFIT®</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.saxton.com.au/paul-collins/\" target=\"_blank\">SEMINARS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-8\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1412,7 +1412,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">COACH COLLINS - Building Better Athletes</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">COACH COLLINS - Building Better Athletes</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-u"
         },
